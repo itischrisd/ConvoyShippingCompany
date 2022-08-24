@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Series is size-mutable
+- text: In Series, index must be the same type as data
+- text: Series is a 2D data structure
+- text: In Series, one can store heterogeneous data
+- text: Series is value-mutable
+- text: Series is a 1D data structure
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10422#comment
+status: Solved
+record: -1
+local_check: false
